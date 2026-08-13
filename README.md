@@ -33,6 +33,20 @@ I verified the lab by:
 - Testing Group Policy restrictions on the client machine
 - Performing common Active Directory user administration tasks
 
+## Screenshots
+
+### Active Directory Users and Computers
+![Active Directory](Screenshot%202026-08-12%20013952.png)
+
+### Domain Login Verification
+![Domain Login](Screenshot%202026-08-12%20014046.png)
+
+### Control Panel Group Policy Restriction
+![Control Panel Restriction](Screenshot%202026-08-12%20163755.png)
+
+### Command Prompt Group Policy Restriction
+![CMD Restriction](Screenshot%202026-08-12%20163859%20-%20Copy.png)
+
 ## Skills Practised
 
 - Active Directory
