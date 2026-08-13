@@ -36,16 +36,16 @@ I verified the lab by:
 ## Screenshots
 
 ### Active Directory Users and Computers
-![Active Directory](Screenshot%202026-08-12%20013952.png)
-
-### Domain Login Verification
-![Domain Login](Screenshot%202026-08-12%20014046.png)
-
-### Control Panel Group Policy Restriction
 ![Control Panel Restriction](Screenshot%202026-08-12%20163755.png)
 
-### Command Prompt Group Policy Restriction
+### Domain Login Verification
 ![CMD Restriction](Screenshot%202026-08-12%20163859%20-%20Copy.png)
+
+### Control Panel Group Policy Restriction
+![Active Directory](Screenshot%202026-08-12%20013952.png)
+
+### Command Prompt Group Policy Restriction
+![Domain Login](Screenshot%202026-08-12%20014046.png)
 
 ## Skills Practised
 
